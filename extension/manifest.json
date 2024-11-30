@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "I-Class+",
+  "action": {
+    "default_title": "아이클래스 플러스",
+    "default_popup": "index.html"
+  }
+}
