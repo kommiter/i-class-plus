@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "name": "I-Class+",
   "action": {
+    "default_icon": {
+      "16": "/logo_16.png",
+      "24": "/logo_24.png",
+      "32": "/logo_32.png"
+    },
     "default_title": "아이클래스 플러스",
     "default_popup": "index.html"
   }
